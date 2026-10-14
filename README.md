@@ -2,6 +2,8 @@
 
 A travel-planning dashboard built with **React and Vite**, with an **Express API** and **MongoDB** integration. The interface brings trip planning, destination discovery, budget tracking, travel analytics, and account preferences into one place.
 
+**Live demo:** [Travel Planner Dashboard](https://travel-planner-pan.netlify.app/)
+
 > **Project status:** This repository contains a portfolio/demo application with sample trip and account data. It is not connected to live airline, hotel, visa, or booking-provider systems, so booking labels and travel statistics should not be treated as live reservations or real-time data.
 
 ## Highlights
