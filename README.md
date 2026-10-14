@@ -139,17 +139,12 @@ The API requires a working MongoDB connection for database-backed routes. The `/
 
 ## Screenshots
 
-There are currently **no dedicated application screenshot files** in this repository. Rather than adding mockups or unrelated images and presenting them as real screenshots, this README leaves the section ready for genuine captures.
+<img width="1134" height="615" alt="p31" src="https://github.com/user-attachments/assets/31098e7a-00e8-4b84-8c04-1eb53673c12d" />
 
-To add screenshots after running the application:
 
-1. Capture the dashboard, trip-planning form, analytics, and budget screens.
-2. Save the images under `docs/screenshots/` (for example, `dashboard.png` and `trip-planner.png`).
-3. Add them here using repository-relative paths, such as:
+<img width="1357" height="678" alt="P32" src="https://github.com/user-attachments/assets/3a047c75-d73c-46a7-9f84-38c3ddca9b7e" />
 
-```markdown
-![Travel Planner dashboard](docs/screenshots/dashboard.png)
-```
+
 
 ## Important Security and Production Notes
 
